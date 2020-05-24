@@ -1,7 +1,7 @@
 # datacamp-projects
-Repository contains completed datacamp projects on different topics
-https://learn.datacamp.com/projects
-https://www.datacamp.com/profile/imdevskp
+Repository contains completed datacamp projects on different topics  
+https://learn.datacamp.com/projects  
+https://www.datacamp.com/profile/imdevskp  
 
 # Projects
 
